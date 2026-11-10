@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# agent and workspace private artifacts
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.agent/
+.gemini/
+*.log
+
